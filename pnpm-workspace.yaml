@@ -1,0 +1,6 @@
+packages:
+  - 'packages/*'
+  - 'play'
+  - 'scripts/*'
+  - 'docs'
+  - 'build-tools/*'
